@@ -1,0 +1,9 @@
+name: SetResourcePack
+version: ${project.version}
+main: setresourcepack.setresourcepack.SetResourcePack
+api-version: 1.16
+authors: [ Fabede ]
+description: sets resource pack
+commands:
+  rp:
+    description: Have fun while dying.
